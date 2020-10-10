@@ -3,9 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div >
-      Hello World New
+    
+    <div className="App">
+      Hello World New 
     </div>
+
   );
 }
 
